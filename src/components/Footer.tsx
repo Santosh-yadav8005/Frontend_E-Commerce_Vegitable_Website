@@ -20,7 +20,7 @@ const Footer = () => {
 
 
 
-      <p className="container flex justify-center text-white pb-3 text-[23px] ">
+      <p className="container flex justify-center text-white pb-3 text-[20px] ">
         Made with <span className="text-[#ff1493] m-2" ><FaHeart /></span>  by Santosh Kumar Yadav
       </p>
     </div>
